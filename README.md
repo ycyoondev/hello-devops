@@ -14,3 +14,4 @@ Devops tool을 프로젝트에 사용하기 전 학습과 테스트 기록을 �
 
 쿠버네티스 안내서(subicura): https://subicura.com/k8s/guide/
 
+미니쿠베
